@@ -4,7 +4,7 @@
 
 ---
 
-🎓 Graduated in **Business Intelligence (ISIMA)** with **High Honors (Très Bien)** and **Jury's Congratulations**.
+🎓 Graduated in **Business Intelligence (ISIMA)** .
 
 🚀 Passionate about building intelligent, scalable, and data-driven software solutions powered by **AI, LLMs, and modern web technologies**.
 
@@ -52,11 +52,6 @@ AI-powered platform that evaluates employee skills (technical + soft skills) usi
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohameeed22&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameeed22&layout=compact&theme=tokyonight)
 
 ---
 
@@ -73,8 +68,6 @@ AI-powered platform that evaluates employee skills (technical + soft skills) usi
 
 - 💼 LinkedIn: https://www.linkedin.com/in/mohamed-abdeladhim-a48365329  
 - 📧 Email: mohamedabdeladhiim@gmail.com  
-- 🐙 GitHub: mohameeed22  
-
 ---
 
 ⭐ *Turning ideas into intelligent software solutions.*
