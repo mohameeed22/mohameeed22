@@ -8,7 +8,6 @@
 
 🚀 Passionate about building intelligent, scalable, and data-driven software solutions powered by **AI, LLMs, and modern web technologies**.
 
-💼 I completed my final-year internship at **Agile X Management**, where I developed **TalentPredict AI**, an AI-powered platform for evaluating technical and soft skills using intelligent assessments and data analytics.
 
 ---
 
