@@ -181,16 +181,6 @@ AI-powered Telegram assistant capable of automating customer support workflows t
 
 ---
 
-# 📈 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohameeed22&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mohameeed22&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohameeed22&layout=compact&theme=tokyonight)
-
----
-
 # 🏆 Current Learning Journey
 
 I'm currently deepening my expertise in:
