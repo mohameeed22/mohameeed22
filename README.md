@@ -1,54 +1,21 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> Hi, I'm Mohamed Abdeladhim
+# 💫 About Me:
+Hi, I'm Mohamed Abdeladhim<br>Full-Stack Developer & AI Automation Engineer — I build production-ready backends, integrate LLMs, and automate workflows with n8n.<br><br>🎯 Engineering Philosophy<br>Great software isn't just code — it's maintainable architecture, clean and testable code, automated workflows, and real business value delivered securely at scale.<br><br>
 
-**Full-Stack Developer & AI Automation Engineer** — I build production-ready backends, integrate LLMs, and automate workflows with n8n.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-abdeladhim-a48365329/?isSelfProfile=true) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedabdeladhiim@gmail.com) 
 
-### 🎯 Engineering Philosophy
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mohameeed22&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mohameeed22&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohameeed22&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Great software isn't just code — it's maintainable architecture, clean and testable code, automated workflows, and real business value delivered securely at scale.
-
----
-
-### 🚀 About
-
-- 🎓 Business Intelligence graduate, backend-first developer with full-stack range
-- ⚙️ Building intelligent, scalable, production-ready applications
-- 🧠 Focused on LLM integration, RAG, and intelligent automation
-
----
-
-### 🛠️ Stack
-
-**Languages:** Python · TypeScript/JavaScript · PHP · Java
-**Backend:** FastAPI · Spring Boot · Django · Symfony
-**Frontend:** Angular · React · Next.js · React Native
-**Data:** PostgreSQL · MongoDB
-**AI/Automation:** LLM Integration (Groq) · RAG · n8n · Telegram/Discord Bots · Exchange APIs (Binance, Bybit)
-**DevOps:** Docker · Kubernetes · GitHub Actions/GitLab CI · AWS · Azure · DigitalOcean
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mohameeed22&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mohameeed22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📈 Currently Learning
-
-Multi-Agent AI Systems · MLOps · Kubernetes · Vector Databases · Cloud-Native Development
-
----
-
-### 🌱 Goals
-
-Building production-scale AI platforms and scalable SaaS products; growing toward an AI/Software Architect role.
-
----
-
-### 📚 Interests
-
-AI · Distributed Systems · Cloud Infrastructure · Cybersecurity · Startups & Entrepreneurship
-
----
-
-### 📫 Contact
-
-📧 mohamedabdeladhiim@gmail.com
-💼 [LinkedIn](https://www.linkedin.com/in/mohamed-abdeladhim-a48365329)
-💻 [GitHub](https://github.com/mohameeed22)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
