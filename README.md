@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Mohamed Abdeladhim<br>Full-Stack Developer & AI Automation Engineer — I build production-ready backends, integrate LLMs, and automate workflows with n8n.<br><br>🎯 Engineering Philosophy<br>Great software isn't just code — it's maintainable architecture, clean and testable code, automated workflows, and real business value delivered securely at scale.<br><br>
+Hi, I'm Mohamed Abdeladhim<br>Full-Stack Developer & AI Automation Engineer 
+<br><br>🎯 Engineering Philosophy<br>Great software isn't just code — it's maintainable architecture, clean and testable code, automated workflows, and real business value delivered securely at scale.<br><br>
 
 
 ## 🌐 Socials:
